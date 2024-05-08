@@ -2,9 +2,10 @@
 
 This repo contains a Mathematica notebook with calculations of Abelian states properties
 from the paper 
-"[Identifying the topological order of quantized half-filled Landau levels through their daughter states]()" 
+"[Identifying the topological order of quantized half-filled Landau levels through their daughter states](https://arxiv.org/abs/2405.03780)" 
 by Evgenii Zheltonozhskii, Ady Stern, and Netanel Lindner. 
 
+![Fillings](./img/x1.png)
 
 To cite the paper use the following bibtex:
 ```
@@ -14,8 +15,8 @@ To cite the paper use the following bibtex:
   year = 2024,
   month = may,
   journal = {arXiv preprint},
-  url = {https://arxiv.org/abs/2405.XXXXX},
-  eprint = {2405.XXXXX},
+  url = {https://arxiv.org/abs/2405.03780},
+  eprint = {2405.03780},
   archiveprefix = {arXiv},
   primaryclass = {cond-mat.mes-hall}
 }
